@@ -1,0 +1,15 @@
+.city-list {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  padding: 0px;
+}
+.title {
+  color: #E8C547;
+  font-size: 48px;
+}
+@media (max-width: 640px) {
+  .title {
+    font-size: 24px;
+   }
+ }
