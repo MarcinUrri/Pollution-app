@@ -1,5 +1,3 @@
-#Skygate - recruitment task
-
 ## Project setup
 ```
 yarn install
